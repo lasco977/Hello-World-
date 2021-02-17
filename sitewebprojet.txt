@@ -1,0 +1,21 @@
+Travail sur le site web :
+
+-utiliser joomla ?
+-voir d'autre manières de créer un site web 
+-chercher un modèle pour pouvoir le reproduire environ
+-chercher un moyen de le mettre sur internet 
+-se faire bien referencer 
+-chercher des moyens de marketing simple 
+-utiliser les langages de programmation 
+-utiliser github pour avoir de l'aide (savoir comment ça marche)
+combine de temps il faut 
+
+travail sur l'appli :
+
+-l'appli en rapport avec le site web
+-apprendre a faire une appli 
+-s'informer sur internet 
+-pouvoir le poster sur play store ou l'app store(s'informer)
+-quel langage de programmation 
+-combien de temps il faut 
+
