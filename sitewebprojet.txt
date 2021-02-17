@@ -9,6 +9,7 @@ Travail sur le site web :
 -utiliser les langages de programmation 
 -utiliser github pour avoir de l'aide (savoir comment ça marche)
 combine de temps il faut 
+-utiliser aussi git
 
 travail sur l'appli :
 
